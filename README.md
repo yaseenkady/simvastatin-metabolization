@@ -6,7 +6,7 @@
 
 Cardiovascular disease (CVD) is the leading cause of death globally<sup>1</sup>. It is estimated that over 90% of CVD is preventable through strategies such as healthy eating, regular exercise and alcohol intake reduction<sup>2</sup>. A class of lipid-lowering medications called **statins** have been shown to reduce CVD in individuals who are at high risk — they work by inhibiting an enzyme called HMG-CoA that is responsible for producing cholesterol (a type of lipid)<sup>3</sup>. Genetic differences in simvastatin metabolization have been shown to affect myopathy (muscle damage) risk and are covered in this analysis<sup>4</sup>.
 
-## Where this App looks at
+## Where does this App look?
 
 This analysis looks at your genetic information presented at the rs4149056 single-nucleotide polymorphism — located on the SLCO1B1 gene of chromosome 12.
 
