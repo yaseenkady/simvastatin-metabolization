@@ -1,5 +1,7 @@
 # Simvastatin Metabolization
 
+![alt text](https://d2ebzu6go672f3.cloudfront.net/media/content/images/healhty-food-lower-cholesterol-heart-dietiStock_000083145271_Medium.jpg)
+
 ## Background
 
 Cardiovascular disease (CVD) is the leading cause of death globally<sup>1</sup>. It is estimated that over 90% of CVD is preventable through strategies such as healthy eating, regular exercise and alcohol intake reduction<sup>2</sup>. A class of lipid-lowering medications called **statins** have been shown to reduce CVD in individuals who are at high risk — they work by inhibiting an enzyme called HMG-CoA that is responsible for producing cholesterol (a type of lipid)<sup>3</sup>. Genetic differences in simvastatin metabolization have been shown to affect myopathy (muscle damage) risk and are covered in this analysis<sup>4</sup>.
