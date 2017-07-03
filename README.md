@@ -1,6 +1,6 @@
 # Simvastatin Metabolization
 
-![alt text](https://d2ebzu6go672f3.cloudfront.net/media/content/images/healhty-food-lower-cholesterol-heart-dietiStock_000083145271_Medium.jpg)
+![alt text](http://www.ozonetherapymalaysia.com/wp-content/uploads/hearthealth.jpg)
 
 ## Background
 
