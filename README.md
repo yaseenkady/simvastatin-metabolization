@@ -8,7 +8,7 @@ Cardiovascular disease (CVD) is the leading cause of death globally.<sup>1</sup>
 
 ## Where does this Genome App look?
 
-This analysis looks at your genetic information presented at the rs4149056 single-nucleotide polymorphism — located on the SLCO1B1 gene of chromosome 12.
+This analysis looks at your genetic information presented at the rs4149056 single-nucleotide polymorphism — located on the SLCO1B1 gene of chromosome 12.<sup>5</sup>
 
 
 ## Medical Disclaimer
@@ -21,3 +21,4 @@ Your results and genetic information from this analysis are not intended to be a
 ###### 2. McGill, Henry C., C. Alex McMahan, and Samuel S. Gidding. "Preventing heart disease in the 21st century." Circulation 117.9 (2008): 1216-1227.
 ###### 3. Taylor, Fiona, et al. "Statins for the primary prevention of cardiovascular disease." Cochrane database syst rev 1.1 (2011).
 ###### 4. https://www.pharmgkb.org/guideline/PA166105005
+###### 5. https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=4149056
